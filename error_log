@@ -1,0 +1,16 @@
+[24-Jul-2019 10:15:06 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:15:06 UTC] PHP Warning:  file_get_contents(http://extreme-ip-lookup.com/json/160.152.45.165): failed to open stream: no suitable wrapper could be found in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:24:29 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:24:29 UTC] PHP Warning:  file_get_contents(http://extreme-ip-lookup.com/json/41.58.86.91): failed to open stream: no suitable wrapper could be found in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:43:24 UTC] PHP Parse error:  syntax error, unexpected 'from' (T_STRING) in /home/khmerlib/public_html/images/afzz/Finish.php on line 47
+[24-Jul-2019 10:45:23 UTC] PHP Parse error:  syntax error, unexpected 'from' (T_STRING) in /home/khmerlib/public_html/images/afzz/Finish.php on line 47
+[24-Jul-2019 10:47:01 UTC] PHP Parse error:  syntax error, unexpected 'from' (T_STRING) in /home/khmerlib/public_html/images/afzz/Finish.php on line 47
+[24-Jul-2019 10:47:53 UTC] PHP Parse error:  syntax error, unexpected 'from' (T_STRING) in /home/khmerlib/public_html/images/afzz/Finish.php on line 47
+[24-Jul-2019 10:48:53 UTC] PHP Parse error:  syntax error, unexpected 'from' (T_STRING) in /home/khmerlib/public_html/images/afzz/Finish.php on line 47
+[24-Jul-2019 10:54:04 UTC] PHP Parse error:  syntax error, unexpected 'from' (T_STRING) in /home/khmerlib/public_html/images/afzz/Finish.php on line 47
+[24-Jul-2019 10:55:28 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:55:28 UTC] PHP Warning:  file_get_contents(http://extreme-ip-lookup.com/json/23.96.108.6): failed to open stream: no suitable wrapper could be found in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:58:21 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:58:21 UTC] PHP Warning:  file_get_contents(http://extreme-ip-lookup.com/json/23.96.108.6): failed to open stream: no suitable wrapper could be found in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:59:46 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
+[24-Jul-2019 10:59:46 UTC] PHP Warning:  file_get_contents(http://extreme-ip-lookup.com/json/23.96.108.6): failed to open stream: no suitable wrapper could be found in /home/khmerlib/public_html/images/afzz/includes/functions.php on line 98
